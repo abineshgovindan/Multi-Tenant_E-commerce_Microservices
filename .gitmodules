@@ -1,0 +1,15 @@
+[submodule "Admin-Service"]
+	path = Admin-Service
+	url = https://github.com/abineshgovindan/Multi-Tenant_E-commerce_Admin-Service.git
+[submodule "Service_Registry-Service"]
+	path = Service_Registry-Service
+	url = https://github.com/abineshgovindan/Multi-Tenant_E-commerce_Service_Registry-Service.git
+[submodule "Product-Query-Service"]
+	path = Product-Query-Service
+	url = https://github.com/abineshgovindan/Multi-Tenant_E-commerce_Product-Query-Service.git
+[submodule "Product-Command-Service"]
+	path = Product-Command-Service
+	url = https://github.com/abineshgovindan/Multi-Tenant_E-commerce_Product-Command-Service.git
+[submodule "Store-Service"]
+	path = Store-Service
+	url = https://github.com/abineshgovindan/Multi-Tenant_E-commerce_Store-Service.git
