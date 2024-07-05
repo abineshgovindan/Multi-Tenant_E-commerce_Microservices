@@ -2,6 +2,8 @@
 
 ![System Architecture](resources/SAv2.jpg)
 
+*Note: This project is currently under development.*
+
 ## Overview
 
 The **Multi-Tenant E-commerce Microservices** platform is a highly scalable, distributed microservices architecture designed to handle millions of requests efficiently. This platform allows corporations or individuals to create accounts, add multiple sub-admins, create multiple stores, and assign sub-admins to stores with customizable permissions. 
