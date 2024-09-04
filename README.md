@@ -78,4 +78,4 @@ git submodule update --init --recursive
 ```
 
 ### Contact
-For any inquiries or support, please contact abineshgovindan@gmail.com.
+For any inquiries or support, please get in touch with abineshgovindan1@gmail.com.
